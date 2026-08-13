@@ -1,0 +1,16 @@
+.heading-sambar{
+    text-align: center;
+}
+body{
+    background-color: rgb(254, 255, 180);
+    font-family:'Courier New', Courier, monospace;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ingridents,
+.prepration{
+    text-align: center;
+}
